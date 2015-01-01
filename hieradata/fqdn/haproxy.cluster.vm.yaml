@@ -1,0 +1,8 @@
+---
+mcollective::client: true
+mcollective::middleware: true
+profile::apt::repositories:
+  'wheezy-backports':
+    ensure: 'present'
+    location: 'http://mirrors.melbourne.co.uk/debian'
+    release: 'wheezy-backports'

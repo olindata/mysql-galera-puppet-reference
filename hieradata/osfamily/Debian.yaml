@@ -1,0 +1,16 @@
+profile::apt::repos:
+  'puppetlabs-dependency':
+    location: 'http://apt.puppetlabs.com'
+    repos: dependencies
+    key: '4BD6EC30'
+    key_server: 'pool.sks-keyservers.net'
+  'puppetlabs':
+    location: 'http://apt.puppetlabs.com'
+    repos: main
+    key: '4BD6EC30'
+    key_server: 'pool.sks-keyservers.net'
+  'percona':
+    location: 'http://repo.percona.com/apt'
+    repos: main
+    key: 'CD2EFD2A'
+    key_server: 'hkp://zimmerman.mayfirst.org'
