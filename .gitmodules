@@ -1,0 +1,63 @@
+[submodule "modules/common/puppet"]
+	path = modules/common/puppet
+	url = git@github.com:olindata/puppetlabs-puppet.git
+[submodule "modules/common/puppetdb"]
+	path = modules/common/puppetdb
+	url = git@github.com:olindata/puppetlabs-puppetdb.git
+[submodule "modules/common/firewall"]
+	path = modules/common/firewall
+	url = git@github.com:olindata/puppetlabs-firewall.git
+[submodule "modules/common/inifile"]
+	path = modules/common/inifile
+	url = git@github.com:olindata/puppetlabs-inifile.git
+[submodule "modules/common/postgresql"]
+	path = modules/common/postgresql
+	url = git@github.com:olindata/puppet-postgresql.git
+[submodule "modules/common/stdlib"]
+	path = modules/common/stdlib
+	url = git@github.com:olindata/puppetlabs-stdlib.git
+[submodule "modules/common/apache"]
+	path = modules/common/apache
+	url = git@github.com:olindata/puppetlabs-apache.git
+[submodule "modules/common/apt"]
+	path = modules/common/apt
+	url = git@github.com:olindata/puppetlabs-apt.git
+[submodule "modules/common/concat"]
+	path = modules/common/concat
+	url = git@github.com:olindata/puppet-concat.git
+[submodule "modules/common/mcollective"]
+	path = modules/common/mcollective
+	url = git@github.com:olindata/puppetlabs-mcollective.git
+[submodule "modules/common/galera"]
+	path = modules/common/galera
+	url = git@github.com:olindata/puppet-galera.git
+[submodule "modules/common/haproxy"]
+	path = modules/common/haproxy
+	url = git@github.com:olindata/puppetlabs-haproxy.git
+[submodule "modules/common/mysql"]
+	path = modules/common/mysql
+	url = git@github.com:olindata/puppetlabs-mysql.git
+[submodule "modules/common/activemq"]
+	path = modules/common/activemq
+	url = git@github.com:olindata/puppetlabs-activemq.git
+[submodule "modules/common/java"]
+	path = modules/common/java
+	url = git@github.com:olindata/puppetlabs-java.git
+[submodule "modules/common/network"]
+	path = modules/common/network
+	url = git@github.com:olindata/puppet-network.git
+[submodule "modules/common/ntp"]
+	path = modules/common/ntp
+	url = git@github.com:olindata/puppetlabs-ntp.git
+[submodule "modules/common/datacat"]
+	path = modules/common/datacat
+	url = git@github.com:olindata/puppet-datacat.git
+[submodule "modules/common/augeas"]
+	path = modules/common/augeas
+	url = git@github.com:olindata/puppet-augeas.git
+[submodule "modules/common/ssh"]
+	path = modules/common/ssh
+	url = git@github.com:olindata/puppet-ssh.git
+[submodule "modules/common/xinetd"]
+	path = modules/common/xinetd
+	url = git@github.com:olindata/puppetlabs-xinetd.git
